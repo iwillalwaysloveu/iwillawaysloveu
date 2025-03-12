@@ -1,14 +1,13 @@
-# Hello World, a Sophia chegou! 🐀👽
+# Hello World, I'm Sophia! 🐀👽
+Welcome to my profile on GitHub! I'm a goth developer that loves technology.
 
-Bem-vindo ao meu perfil no GitHub! Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios.
+## About me
 
-## Sobre Mim
+- 🦇 I'm constantly learning about new things (most of them about technology).
+- 🦴 I really dedicate myself to all my projects, no matter how difficult it may seem.
+- 👾 I love to solve problems (especially if they involve logic)
 
-- 🌱 Estou aprendendo constantemente novas tecnologias.
-- 🌍 Amo colaborar em projetos open source e ajudar a comunidade.
-- 🧩 Sou apaixonado(a) por resolver problemas e criar soluções eficientes.
-
-   <h3>📊 My Coding Stats (You're probably not going to be impressed)</h3>
+   <h3>🥀 My Coding Stats</h3>
   <a href="https://github.com/esquizosophia">
     <img height="180" src="https://github-readme-stats.vercel.app/api/?username=esquizosophia&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   </a>
@@ -17,10 +16,10 @@ Bem-vindo ao meu perfil no GitHub! Eu sou um(a) desenvolvedor(a) apaixonado(a) p
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquizosophia&layout=compact&langs_count=16&theme=shadow_red"/>
   </a>
 
-## Como Entrar em Contato
+## How to contact me
 
-- Não entre <3
+- Just don't <3
 
 ---
 
-Obrigado por visitar meu perfil! 👽
+Thank you for visiting my profile! 👽
