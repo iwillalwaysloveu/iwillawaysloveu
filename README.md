@@ -1,4 +1,4 @@
-# Olá, sou Sophia! 🐀👽
+# Hello World, a Sophia chegou! 🐀👽
 
 Bem-vindo ao meu perfil no GitHub! Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios.
 
