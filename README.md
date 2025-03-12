@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou Sophia! 🐀👽
 
-<!--
-**esquizosophia/esquizosophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo constantemente novas tecnologias.
+- 🌍 Amo colaborar em projetos open source e ajudar a comunidade.
+- 🧩 Sou apaixonado(a) por resolver problemas e criar soluções eficientes.
+
+## Como Entrar em Contato
+
+- Não entre <3
+
+---
+
+Obrigado por visitar meu perfil! 👽
