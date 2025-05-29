@@ -9,11 +9,11 @@ Welcome to my profile on GitHub! I'm a goth developer that loves technology.
 
    <h3>🥀 My Coding Stats</h3>
   <a href="https://github.com/esquizosophia">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=esquizosophia&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=esquizosophia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/esquizosophia">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquizosophia&layout=compact&langs_count=16&theme=shadow_red"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquizosophia&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 
 ## How to contact me
